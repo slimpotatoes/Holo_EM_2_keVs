@@ -4,7 +4,7 @@ Script to process two electron holograms recorded at two different tensions of t
 
 List of dependencies:
 - matplotlib
-= numpy
+- numpy
 - scikit-image
 - dm3_lib
 - scipy
